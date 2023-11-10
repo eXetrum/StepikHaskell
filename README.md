@@ -36,3 +36,6 @@
 	- [ip show](src/modules/02_ProgrammingBasics/2_4_StdClassTypes/ip)
 	- [SafeEnum](src/modules/02_ProgrammingBasics/2_4_StdClassTypes/SafeEnum)
 	- [avg](src/modules/02_ProgrammingBasics/2_4_StdClassTypes/avg)
+## 3 Списки
+1. [Функции для работы со списками](src/modules/03_Lists/3_1_ListMethods)
+    - [addTwoElements](src/modules/03_Lists/3_1_ListMethods/addTwoElements)

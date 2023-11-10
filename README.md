@@ -20,3 +20,7 @@
     - [seqA](src/modules/01_Intro/1_6_Bindings_Indents/seqA)
 	- [sum'n'count](src/modules/01_Intro/1_6_Bindings_Indents/sum'n'count)
 	- [integration](src/modules/01_Intro/1_6_Bindings_Indents/integration)
+
+## 2 Основы программирования
+1. [Параметрический полиморфизм]
+    - [getSecondFrom](src/modules/02_ProgrammingBasics/2_1_ParametricPolymorphism/getSecondFrom)

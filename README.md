@@ -33,3 +33,4 @@
 	- [PrintablePair](src/modules/02_ProgrammingBasics/2_3_ClassTypes/PrintablePair)
 4. [Стандартные классы типов](src/modules/02_ProgrammingBasics/2_4_StdClassTypes)
     - [KnownToGork, KnownToMork, KnownToGorkAndMork](src/modules/02_ProgrammingBasics/2_4_StdClassTypes/KnownTo(Gork-Mork))
+	- [ip show](src/modules/02_ProgrammingBasics/2_4_StdClassTypes/ip)

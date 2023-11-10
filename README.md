@@ -8,3 +8,5 @@
 	- [sign](src/modules/01_Intro/1_2_Functions/sign)
 3. [Операторы](src/modules/01_Intro/1_3_Operators)
     - [x |-| y](src/modules/01_Intro/1_3_Operators/modDiff)
+4. [Базовые типы](src/modules/01_Intro/1_4_BaseTypes)
+    - [discount](src/modules/01_Intro/1_4_BaseTypes/discount)

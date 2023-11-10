@@ -18,3 +18,4 @@
 	- [fibonacci O(n)](src/modules/01_Intro/1_5_Recursion/fibonacci_iter)
 6. [Локальные связывания и правила отступов](src/modules/01_Intro/1_6_Bindings_Indents)
     - [seqA](src/modules/01_Intro/1_6_Bindings_Indents/seqA)
+	- [sum'n'count](src/modules/01_Intro/1_6_Bindings_Indents/sum'n'count)

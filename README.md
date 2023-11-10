@@ -48,3 +48,4 @@
     - [readDigits](src/modules/03_Lists/3_2_HOF/readDigits)
 	- [filterDisj](src/modules/03_Lists/3_2_HOF/filterDisj)
 	- [qsort](src/modules/03_Lists/3_2_HOF/qsort)
+	- [squares'n'cubes](src/modules/03_Lists/3_2_HOF/squares'n'cubes)

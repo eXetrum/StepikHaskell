@@ -10,3 +10,4 @@
     - [x |-| y](src/modules/01_Intro/1_3_Operators/modDiff)
 4. [Базовые типы](src/modules/01_Intro/1_4_BaseTypes)
     - [discount](src/modules/01_Intro/1_4_BaseTypes/discount)
+	- [twoDigits2Int](src/modules/01_Intro/1_4_BaseTypes/twoDigits2Int)

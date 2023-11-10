@@ -15,3 +15,4 @@
 5. [Рекурсия](src/modules/01_Intro/1_5_Recursion)
     - [doubleFact](src/modules/01_Intro/1_5_Recursion/doubleFact)
     - [fibonacci](src/modules/01_Intro/1_5_Recursion/fibonacci)
+	- [fibonacci O(n)](src/modules/01_Intro/1_5_Recursion/fibonacci_iter)

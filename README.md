@@ -12,3 +12,5 @@
     - [discount](src/modules/01_Intro/1_4_BaseTypes/discount)
 	- [twoDigits2Int](src/modules/01_Intro/1_4_BaseTypes/twoDigits2Int)
 	- [dist](src/modules/01_Intro/1_4_BaseTypes/dist)
+5. [Рекурсия](src/modules/01_Intro/1_5_Recursion)
+    - [doubleFact](src/modules/01_Intro/1_5_Recursion/doubleFact)

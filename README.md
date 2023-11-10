@@ -50,3 +50,4 @@
 	- [qsort](src/modules/03_Lists/3_2_HOF/qsort)
 	- [squares'n'cubes](src/modules/03_Lists/3_2_HOF/squares'n'cubes)
 	- [perms](src/modules/03_Lists/3_2_HOF/perms)
+	- [delAllUpper](src/modules/03_Lists/3_2_HOF/delAllUpper)

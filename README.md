@@ -47,3 +47,4 @@
 2. [Функции высших порядков над списками](src/modules/03_Lists/3_2_HOF)
     - [readDigits](src/modules/03_Lists/3_2_HOF/readDigits)
 	- [filterDisj](src/modules/03_Lists/3_2_HOF/filterDisj)
+	- [qsort](src/modules/03_Lists/3_2_HOF/qsort)

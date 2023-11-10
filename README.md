@@ -39,3 +39,4 @@
 ## 3 Списки
 1. [Функции для работы со списками](src/modules/03_Lists/3_1_ListMethods)
     - [addTwoElements](src/modules/03_Lists/3_1_ListMethods/addTwoElements)
+	- [nTimes](src/modules/03_Lists/3_1_ListMethods/nTimes)

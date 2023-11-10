@@ -42,3 +42,4 @@
 	- [nTimes](src/modules/03_Lists/3_1_ListMethods/nTimes)
 	- [oddsOnly](src/modules/03_Lists/3_1_ListMethods/oddsOnly)
 	- [isPalindrome](src/modules/03_Lists/3_1_ListMethods/isPalindrome)
+	- [sum3](src/modules/03_Lists/3_1_ListMethods/sum3)

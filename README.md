@@ -25,3 +25,4 @@
 1. [Параметрический полиморфизм](src/modules/02_ProgrammingBasics/2_1_ParametricPolymorphism)
     - [getSecondFrom](src/modules/02_ProgrammingBasics/2_1_ParametricPolymorphism/getSecondFrom)
 	- [multSecond](src/modules/02_ProgrammingBasics/2_1_ParametricPolymorphism/multSecond)
+    - [on3](src/modules/02_ProgrammingBasics/2_1_ParametricPolymorphism/on3)

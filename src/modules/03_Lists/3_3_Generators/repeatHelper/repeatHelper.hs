@@ -1,1 +1,1 @@
-repeatHelper x = x
+repeatHelper = id

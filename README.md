@@ -14,3 +14,4 @@
 	- [dist](src/modules/01_Intro/1_4_BaseTypes/dist)
 5. [Рекурсия](src/modules/01_Intro/1_5_Recursion)
     - [doubleFact](src/modules/01_Intro/1_5_Recursion/doubleFact)
+    - [fibonacci](src/modules/01_Intro/1_5_Recursion/fibonacci)

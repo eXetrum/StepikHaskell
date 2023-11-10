@@ -22,7 +22,6 @@ GHCi> let x = Odd 33
 GHCi> x
 Odd 33
 ```  
-\
 и использовать конструктор данных `Odd` в сопоставлении с образцом:  
 ```haskell
 addEven :: Odd -> Integer -> Odd

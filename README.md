@@ -22,5 +22,5 @@
 	- [integration](src/modules/01_Intro/1_6_Bindings_Indents/integration)
 
 ## 2 Основы программирования
-1. [Параметрический полиморфизм]
+1. [Параметрический полиморфизм](src/modules/02_ProgrammingBasics/2_1_ParametricPolymorphism)
     - [getSecondFrom](src/modules/02_ProgrammingBasics/2_1_ParametricPolymorphism/getSecondFrom)

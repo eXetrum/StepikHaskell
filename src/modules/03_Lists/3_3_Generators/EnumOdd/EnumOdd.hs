@@ -2,11 +2,13 @@
 -- не убирайте комментарий с предыдущей строки
 -- определение Odd уже присутствует в вызывающей программе
 instance Enum Odd where
-  succ (Odd x) = Odd $ x + 2
-  pred (Odd x) = Odd $ x - 2
-  toEnum x = Odd $ toInteger x * 2 + 1
-  fromEnum (Odd x) = quot (fromInteger x - 1) 2
-  enumFrom = iterate succ
-  enumFromThen (Odd x) (Odd y) = map Odd [x, y ..]
-  enumFromTo (Odd x) (Odd y) = map Odd [x, x + 2 .. y]
-  enumFromThenTo (Odd x) (Odd y) (Odd z) = map Odd [x , y .. z]
+  toEnum i = Odd(toInteger i)
+  fromEnum (Odd n) = fromEnum n
+
+  succ (Odd n) = Odd (n+2)
+  pred (Odd n) = Odd (n-2)
+
+  enumFrom (Odd n) = map Odd [n,n+2..]
+  enumFromTo (Odd n) (Odd m) = map Odd [n,n+2..m]
+  enumFromThen (Odd n) (Odd n') = map Odd [n,n'..]
+  enumFromThenTo (Odd n) (Odd n') (Odd m) = map Odd [n,n'..m]

@@ -28,3 +28,5 @@
     - [on3](src/modules/02_ProgrammingBasics/2_1_ParametricPolymorphism/on3)
 2. [Параметрический полиморфизм (2)](src/modules/02_ProgrammingBasics/2_2_ParametricPolymorphism)
 	- [doItYourself](src/modules/02_ProgrammingBasics/2_2_ParametricPolymorphism/doItYourself)
+3. [Классы типов](src/modules/02_ProgrammingBasics/2_3_ClassTypes)
+	- [Printable](src/modules/02_ProgrammingBasics/2_3_ClassTypes/Printable)

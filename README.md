@@ -44,3 +44,5 @@
 	- [isPalindrome](src/modules/03_Lists/3_1_ListMethods/isPalindrome)
 	- [sum3](src/modules/03_Lists/3_1_ListMethods/sum3)
 	- [groupElems](src/modules/03_Lists/3_1_ListMethods/groupElems)
+2. [Функции высших порядков над списками](src/modules/03_Lists/3_2_HOF)
+    - [readDigits](src/modules/03_Lists/3_2_HOF/readDigits)

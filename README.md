@@ -63,3 +63,4 @@
 	- [sumOdd](src/modules/03_Lists/3_4_RightFold/sumOdd)
 5. [Левая свертка и ее сравнение с правой](src/modules/03_Lists/3_5_LeftFold)
     - [meanList](src/modules/03_Lists/3_5_LeftFold/meanList)
+	- [evenOnly](src/modules/03_Lists/3_5_LeftFold/evenOnly)

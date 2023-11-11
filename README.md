@@ -74,3 +74,4 @@
 	- [charToInt](src/modules/04_Types/4_1_EnumTypes/charToInt)
 	- [stringToColor](src/modules/04_Types/4_1_EnumTypes/stringToColor)
 	- [cmp](src/modules/04_Types/4_1_EnumTypes/cmp)
+	- [processData](src/modules/04_Types/4_1_EnumTypes/processData)

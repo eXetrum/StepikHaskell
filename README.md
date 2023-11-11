@@ -59,3 +59,4 @@
 	- [change](src/modules/03_Lists/3_3_Generators/change)
 4. [Правая свертка](src/modules/03_Lists/3_4_RightFold)
     - [concatList](src/modules/03_Lists/3_4_RightFold/concatList)
+	- [lengthList](src/modules/03_Lists/3_4_RightFold/lengthList)

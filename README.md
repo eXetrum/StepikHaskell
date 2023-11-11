@@ -67,3 +67,4 @@
 	- [evenOnlyStream](src/modules/03_Lists/3_5_LeftFold/evenOnlyStream)
 6. [Родственные сверткам функции](src/modules/03_Lists/3_6_RelatedToFold)
     - [lastElem](src/modules/03_Lists/3_6_RelatedToFold/lastElem)
+	- [revRange](src/modules/03_Lists/3_6_RelatedToFold/revRange)

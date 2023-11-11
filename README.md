@@ -56,3 +56,4 @@
     - [fibStream](src/modules/03_Lists/3_3_Generators/fibStream)
 	- [repeatHelper](src/modules/03_Lists/3_3_Generators/repeatHelper)
 	- [Odd](src/modules/03_Lists/3_3_Generators/EnumOdd)
+	- [change](src/modules/03_Lists/3_3_Generators/change)

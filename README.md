@@ -72,3 +72,4 @@
 1. [Типы перечислений](src/modules/04_Types/4_1_EnumTypes)
     - [Color](src/modules/04_Types/4_1_EnumTypes/Color)
 	- [charToInt](src/modules/04_Types/4_1_EnumTypes/charToInt)
+	- [stringToColor](src/modules/04_Types/4_1_EnumTypes/stringToColor)

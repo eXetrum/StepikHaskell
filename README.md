@@ -57,3 +57,5 @@
 	- [repeatHelper](src/modules/03_Lists/3_3_Generators/repeatHelper)
 	- [Odd](src/modules/03_Lists/3_3_Generators/EnumOdd)
 	- [change](src/modules/03_Lists/3_3_Generators/change)
+4. [Правая свертка](src/modules/03_Lists/3_4_RightFold)
+    - [concatList](src/modules/03_Lists/3_4_RightFold/concatList)

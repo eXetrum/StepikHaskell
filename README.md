@@ -68,3 +68,6 @@
 6. [Родственные сверткам функции](src/modules/03_Lists/3_6_RelatedToFold)
     - [lastElem](src/modules/03_Lists/3_6_RelatedToFold/lastElem)
 	- [revRange](src/modules/03_Lists/3_6_RelatedToFold/revRange)
+## 4 Типы данных
+1. [Типы перечислений](src/modules/04_Types/4_1_EnumTypes)
+    - [Color](src/modules/04_Types/4_1_EnumTypes/Color)

@@ -75,3 +75,5 @@
 	- [stringToColor](src/modules/04_Types/4_1_EnumTypes/stringToColor)
 	- [cmp](src/modules/04_Types/4_1_EnumTypes/cmp)
 	- [processData](src/modules/04_Types/4_1_EnumTypes/processData)
+2. [Типы произведений и сумм произведений](src/modules/04_Types/4_2_ProductTypesSumTypes)
+    - [distance](src/modules/04_Types/4_2_ProductTypesSumTypes/distance)

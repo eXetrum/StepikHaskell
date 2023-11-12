@@ -78,3 +78,4 @@
 2. [Типы произведений и сумм произведений](src/modules/04_Types/4_2_ProductTypesSumTypes)
     - [distance](src/modules/04_Types/4_2_ProductTypesSumTypes/distance)
 	- [area](src/modules/04_Types/4_2_ProductTypesSumTypes/area)
+	- [doSomeWork'](src/modules/04_Types/4_2_ProductTypesSumTypes/doSomeWork')

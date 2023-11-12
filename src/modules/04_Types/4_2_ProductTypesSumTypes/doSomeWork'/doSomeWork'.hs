@@ -1,10 +1,10 @@
-data Result' = Ok | Result' Int
+data Result' = Fail' Int | Success' 
 
 instance Show Result' where
-  show Ok = "Success"
-  show (Result' n) = "Fail: " ++ show n
+    show (Fail' n) = "Fail: " ++ show n
+    show _ = "Success"
 
 doSomeWork' :: SomeData -> Result'
-doSomeWork' x = case snd $ doSomeWork x of
-  0 -> Ok
-  n -> Result' n
+doSomeWork' x = case doSomeWork x of
+    (Success, _) -> Success'
+	(_, n) -> Fail' n

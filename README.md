@@ -81,3 +81,5 @@
 	- [doSomeWork'](src/modules/04_Types/4_2_ProductTypesSumTypes/doSomeWork')
 	- [isSquare](src/modules/04_Types/4_2_ProductTypesSumTypes/isSquare)
 	- [add&mul](src/modules/04_Types/4_2_ProductTypesSumTypes/add&mul)
+3. [Синтаксис записей](src/modules/04_Types/4_3_RecordSyntax)
+    - [logLevelToString, logEntryToString](src/modules/04_Types/4_3_RecordSyntax/logToString)

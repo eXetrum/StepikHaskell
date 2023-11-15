@@ -84,3 +84,4 @@
 3. [Синтаксис записей](src/modules/04_Types/4_3_RecordSyntax)
     - [logLevelToString, logEntryToString](src/modules/04_Types/4_3_RecordSyntax/logToString)
 	- [updateLastName](src/modules/04_Types/4_3_RecordSyntax/updateLastName)
+	- [abbrFirstName](src/modules/04_Types/4_3_RecordSyntax/abbrFirstName)

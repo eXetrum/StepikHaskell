@@ -80,3 +80,4 @@
 	- [area](src/modules/04_Types/4_2_ProductTypesSumTypes/area)
 	- [doSomeWork'](src/modules/04_Types/4_2_ProductTypesSumTypes/doSomeWork')
 	- [isSquare](src/modules/04_Types/4_2_ProductTypesSumTypes/isSquare)
+	- [add&mul](src/modules/04_Types/4_2_ProductTypesSumTypes/add&mul)

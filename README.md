@@ -88,3 +88,4 @@
 4. [Типы с параметрами](src/modules/04_Types/4_4_TypesWithParams)
     - [distance](src/modules/04_Types/4_4_TypesWithParams/distance)
 	- [getCenter, getCell](src/modules/04_Types/4_4_TypesWithParams/getCenter&getCell)
+	- [findDigit](src/modules/04_Types/4_4_TypesWithParams/findDigit)

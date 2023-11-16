@@ -85,3 +85,5 @@
     - [logLevelToString, logEntryToString](src/modules/04_Types/4_3_RecordSyntax/logToString)
 	- [updateLastName](src/modules/04_Types/4_3_RecordSyntax/updateLastName)
 	- [abbrFirstName](src/modules/04_Types/4_3_RecordSyntax/abbrFirstName)
+4. [Типы с параметрами](src/modules/04_Types/4_4_TypesWithParams)
+    - [distance](src/modules/04_Types/4_4_TypesWithParams/distance)

@@ -1,6 +1,6 @@
 [Типы перечислений](https://stepik.org/lesson/4916/step/11)
 
-Тип LogLevel описывает различные уровни логирования.  
+Тип `LogLevel` описывает различные уровни логирования.  
 
 ```haskell
 data LogLevel = Error | Warning | Info

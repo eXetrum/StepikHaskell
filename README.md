@@ -91,3 +91,4 @@
 	- [findDigit](src/modules/04_Types/4_4_TypesWithParams/findDigit)
 	- [findDigitOrX](src/modules/04_Types/4_4_TypesWithParams/findDigitOrX)
 	- [maybeToList, listToMaybe](src/modules/04_Types/4_4_TypesWithParams/maybeToList&listToMaybe)
+	- [parsePerson](src/modules/04_Types/4_4_TypesWithParams/parsePerson)	

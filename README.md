@@ -93,3 +93,5 @@
 	- [maybeToList, listToMaybe](src/modules/04_Types/4_4_TypesWithParams/maybeToList&listToMaybe)
 	- [parsePerson](src/modules/04_Types/4_4_TypesWithParams/parsePerson)	
 	- [eitherToMaybe fix](src/modules/04_Types/4_4_TypesWithParams/eitherToMaybe)
+5. [Рекурсивные типы данных](src/modules/04_Types/4_5_RecursiveTypes)
+    - [fromList, toList](src/modules/04_Types/4_5_RecursiveTypes/fromList&toList)

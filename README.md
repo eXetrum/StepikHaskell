@@ -98,3 +98,4 @@
 	- [Nat, fromNat, add, mul, fac](src/modules/04_Types/4_5_RecursiveTypes/Nat)
 	- [Tree, height, size](src/modules/04_Types/4_5_RecursiveTypes/Tree)
 	- [Tree, avg](src/modules/04_Types/4_5_RecursiveTypes/avg)
+	- [expand](src/modules/04_Types/4_5_RecursiveTypes/expand)

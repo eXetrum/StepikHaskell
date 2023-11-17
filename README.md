@@ -95,4 +95,5 @@
 	- [eitherToMaybe fix](src/modules/04_Types/4_4_TypesWithParams/eitherToMaybe)
 5. [Рекурсивные типы данных](src/modules/04_Types/4_5_RecursiveTypes)
     - [fromList, toList](src/modules/04_Types/4_5_RecursiveTypes/fromList&toList)
-	- [fromNat, add, mul, fac](src/modules/04_Types/4_5_RecursiveTypes/Nat)
+	- [Nat, fromNat, add, mul, fac](src/modules/04_Types/4_5_RecursiveTypes/Nat)
+	- [Tree, height, size](src/modules/04_Types/4_5_RecursiveTypes/Tree)

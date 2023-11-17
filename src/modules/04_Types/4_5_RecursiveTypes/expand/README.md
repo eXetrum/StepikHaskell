@@ -24,17 +24,3 @@ Val 1 :*: Val 4 :+: (Val 1 :*: Val 5 :+: (Val 2 :*: Val 4 :+: (Val 2 :*: Val 5 :
 
 _Примечание_. Скобки в ответе могут быть расставлены по-другому или вообще отсутствовать, поскольку сложение ассоциативно.  
 Слагаемые могут идти в другом порядке, поскольку сложение коммутативно.  
-
-```haskell
-infixl 6 :+:
-infixl 7 :*:
-data Expr = Val Int | Expr :+: Expr | Expr :*: Expr
-    deriving (Show, Eq)
-
-expand :: Expr -> Expr
-expand ((e1 :+: e2) :*: e) = expand e1 :*: expand e :+: expand e2 :*: expand e
-expand (e :*: (e1 :+: e2)) = expand e :*: expand e1 :+: expand e :*: expand e2
-expand (e1 :+: e2) = expand e1 :+: expand e2
-expand (e1 :*: e2) = expand e1 :*: expand e2
-expand e = e
-```  

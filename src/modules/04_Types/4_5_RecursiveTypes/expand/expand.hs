@@ -4,14 +4,9 @@ data Expr = Val Int | Expr :+: Expr | Expr :*: Expr
     deriving (Show, Eq)
 
 expand :: Expr -> Expr
-expand e
-  | e /= e' = expand e'
-  | otherwise = e
+expand = foldr1 (:+:) . expandList
   where
-    e' = go e
-    go :: Expr -> Expr
-    go ((e1 :+: e2) :*: e) = go e1 :*: go e :+: go e2 :*: go e
-    go (e :*: (e1 :+: e2)) = go e :*: go e1 :+: go e :*: go e2
-    go (e1 :+: e2) = go e1 :+: go e2
-    go (e1 :*: e2) = go e1 :*: go e2
-    go e = e
+    expandList :: Expr -> [Expr]
+    expandList (Val i)   = [Val i]
+    expandList (l :+: r) = expandList l ++ expandList r
+    expandList (l :*: r) = [ e1 :*: e2 | e1 <- expandList l, e2 <- expandList r]

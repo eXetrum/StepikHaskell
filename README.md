@@ -36,6 +36,7 @@
 	- [ip show](src/modules/02_ProgrammingBasics/2_4_StdClassTypes/ip)
 	- [SafeEnum](src/modules/02_ProgrammingBasics/2_4_StdClassTypes/SafeEnum)
 	- [avg](src/modules/02_ProgrammingBasics/2_4_StdClassTypes/avg)
+
 ## 3 Списки
 1. [Функции для работы со списками](src/modules/03_Lists/3_1_ListMethods)
     - [addTwoElements](src/modules/03_Lists/3_1_ListMethods/addTwoElements)
@@ -68,6 +69,7 @@
 6. [Родственные сверткам функции](src/modules/03_Lists/3_6_RelatedToFold)
     - [lastElem](src/modules/03_Lists/3_6_RelatedToFold/lastElem)
 	- [revRange](src/modules/03_Lists/3_6_RelatedToFold/revRange)
+
 ## 4 Типы данных
 1. [Типы перечислений](src/modules/04_Types/4_1_EnumTypes)
     - [Color](src/modules/04_Types/4_1_EnumTypes/Color)
@@ -104,3 +106,7 @@
 	- [Monoid Maybe'](src/modules/04_Types/4_6_SynonymsAndTypeWrappers/MonoidMaybe')
 	- [MapLike, ListMap](src/modules/04_Types/4_6_SynonymsAndTypeWrappers/ListMap)
 	- [MapLike, ArrowMap](src/modules/04_Types/4_6_SynonymsAndTypeWrappers/ArrowMap)
+
+## 5 Монады
+1. [Класс типов Functor и законы для него](src/modules/05_Monads/5_1_Functor)
+    - []

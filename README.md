@@ -102,3 +102,4 @@
 6. [Синонимы и обертки для типов](src/modules/04_Types/4_6_SynonymsAndTypeWrappers)
     - [Monoid, Xor](src/modules/04_Types/4_6_SynonymsAndTypeWrappers/MonoidXor)
 	- [Monoid Maybe'](src/modules/04_Types/4_6_SynonymsAndTypeWrappers/MonoidMaybe')
+	- [MapLike, ListMap](src/modules/04_Types/4_6_SynonymsAndTypeWrappers/ListMap)

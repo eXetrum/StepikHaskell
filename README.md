@@ -99,3 +99,5 @@
 	- [Tree, height, size](src/modules/04_Types/4_5_RecursiveTypes/Tree)
 	- [Tree, avg](src/modules/04_Types/4_5_RecursiveTypes/avg)
 	- [expand](src/modules/04_Types/4_5_RecursiveTypes/expand)
+6. [Синонимы и обертки для типов](src/modules/04_Types/4_6_SynonymsAndTypeWrappers)
+    - [Monoid, Xor](src/modules/04_Types/4_6_SynonymsAndTypeWrappers/MonoidXor)

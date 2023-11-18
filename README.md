@@ -111,3 +111,4 @@
 1. [Класс типов Functor и законы для него](src/modules/05_Monads/5_1_Functor)
     - [Point3D](src/modules/05_Monads/5_1_Functor/Point3D)
 	- [GeomPrimitive](src/modules/05_Monads/5_1_Functor/GeomPrimitive)
+	- [Tree::Maybe](src/modules/05_Monads/5_1_Functor/MaybeTree)

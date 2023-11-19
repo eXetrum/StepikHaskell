@@ -113,3 +113,5 @@
 	- [GeomPrimitive](src/modules/05_Monads/5_1_Functor/GeomPrimitive)
 	- [Tree::Maybe](src/modules/05_Monads/5_1_Functor/MaybeTree)
 	- [Entry](src/modules/05_Monads/5_1_Functor/Entry)
+2. [Определение монады](src/modules/05_Monads/5_2_MonadDefinition)
+    - [toLogger, execLoggers](src/modules/05_Monads/5_2_MonadDefinition/Log)

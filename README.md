@@ -116,3 +116,4 @@
 2. [Определение монады](src/modules/05_Monads/5_2_MonadDefinition)
     - [toLogger, execLoggers](src/modules/05_Monads/5_2_MonadDefinition/Log)
 	- [returnLog](src/modules/05_Monads/5_2_MonadDefinition/returnLog)
+	- [bindLog](src/modules/05_Monads/5_2_MonadDefinition/bindLog)

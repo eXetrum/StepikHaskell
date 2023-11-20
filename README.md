@@ -117,3 +117,4 @@
     - [toLogger, execLoggers](src/modules/05_Monads/5_2_MonadDefinition/Log)
 	- [returnLog](src/modules/05_Monads/5_2_MonadDefinition/returnLog)
 	- [bindLog](src/modules/05_Monads/5_2_MonadDefinition/bindLog)
+	- [execLoggersList](src/modules/05_Monads/5_2_MonadDefinition/execLoggersList)

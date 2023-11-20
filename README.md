@@ -115,3 +115,4 @@
 	- [Entry](src/modules/05_Monads/5_1_Functor/Entry)
 2. [Определение монады](src/modules/05_Monads/5_2_MonadDefinition)
     - [toLogger, execLoggers](src/modules/05_Monads/5_2_MonadDefinition/Log)
+	- [returnLog](src/modules/05_Monads/5_2_MonadDefinition/returnLog)

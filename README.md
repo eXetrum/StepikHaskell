@@ -122,3 +122,4 @@
     - [SomeType Functor](src/modules/05_Monads/5_3_IdentityMonad/SomeTypeFunctor)
 4. [Список и Maybe как монады](src/modules/05_Monads/5_4_ListAndMaybeLikeMonad)
     - [Token, asToken, tokenize](src/modules/05_Monads/5_4_ListAndMaybeLikeMonad/Token)
+	- [Board, nextPositionsN](src/modules/05_Monads/5_4_ListAndMaybeLikeMonad/Board)

@@ -124,3 +124,5 @@
     - [Token, asToken, tokenize](src/modules/05_Monads/5_4_ListAndMaybeLikeMonad/Token)
 	- [Board, nextPositionsN](src/modules/05_Monads/5_4_ListAndMaybeLikeMonad/Board)
 	- [pythagoreanTriple](src/modules/05_Monads/5_4_ListAndMaybeLikeMonad/pythagoreanTriple)
+5. [Монада IO](src/modules/05_Monads/5_5_IO_Monad)
+    - [hello IO](src/modules/05_Monads/5_5_IO_Monad/helloIO)

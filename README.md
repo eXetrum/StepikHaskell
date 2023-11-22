@@ -133,3 +133,4 @@
 7. [Монада Writer](src/modules/05_Monads/5_7_WriterMonad)
     - [evalWriter](src/modules/05_Monads/5_7_WriterMonad/evalWriter)
 	- [Shopping, purchase, total](src/modules/05_Monads/5_7_WriterMonad/Shopping)
+	- [Shopping, purchase, total, items](src/modules/05_Monads/5_7_WriterMonad/ShoppingExt)

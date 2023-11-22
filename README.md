@@ -132,3 +132,4 @@
 	- [usersWithBadPasswords](src/modules/05_Monads/5_6_ReaderMonad/usersWithBadPasswords)
 7. [Монада Writer](src/modules/05_Monads/5_7_WriterMonad)
     - [evalWriter](src/modules/05_Monads/5_7_WriterMonad/evalWriter)
+	- [Shopping, purchase, total](src/modules/05_Monads/5_7_WriterMonad/Shopping)

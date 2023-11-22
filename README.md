@@ -127,3 +127,5 @@
 5. [Монада IO](src/modules/05_Monads/5_5_IO_Monad)
     - [hello IO](src/modules/05_Monads/5_5_IO_Monad/helloIO)
 	- [Remove files by query](src/modules/05_Monads/5_5_IO_Monad/removeByQuery)
+6. [Монада Reader](src/modules/05_Monads/5_6_ReaderMonad)
+    - [local'](src/modules/05_Monads/5_6_ReaderMonad/local')

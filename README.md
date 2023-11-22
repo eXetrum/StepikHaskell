@@ -137,3 +137,4 @@
 8. [Монада State](src/modules/05_Monads/5_8_StateMonad)
     - [readerToState](src/modules/05_Monads/5_8_StateMonad/readerToState)
 	- [writerToState](src/modules/05_Monads/5_8_StateMonad/writerToState)
+	- [fibStep, execStateN](src/modules/05_Monads/5_8_StateMonad/fibStep&execStateN)

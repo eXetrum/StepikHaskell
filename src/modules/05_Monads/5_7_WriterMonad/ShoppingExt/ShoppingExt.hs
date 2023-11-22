@@ -1,10 +1,10 @@
-type Shopping = Writer (Sum Integer, [String]) ()
+type Shopping = Writer ([String], Sum Integer) ()
 
 purchase :: String -> Integer -> Shopping
-purchase item cost = tell (Sum cost, [item])
+purchase item cost = tell ([item], Sum cost)
 
 total :: Shopping -> Integer
-total = getSum . fst . execWriter
+total = getSum . snd . execWriter
 
 items :: Shopping -> [String]
-items = snd . execWriter
+items = fst . execWriter

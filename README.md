@@ -138,3 +138,4 @@
     - [readerToState](src/modules/05_Monads/5_8_StateMonad/readerToState)
 	- [writerToState](src/modules/05_Monads/5_8_StateMonad/writerToState)
 	- [fibStep, execStateN](src/modules/05_Monads/5_8_StateMonad/fibStep&execStateN)
+	- [numberTree](src/modules/05_Monads/5_8_StateMonad/fibStep&execStateN/numberTree)

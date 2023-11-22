@@ -134,3 +134,5 @@
     - [evalWriter](src/modules/05_Monads/5_7_WriterMonad/evalWriter)
 	- [Shopping, purchase, total](src/modules/05_Monads/5_7_WriterMonad/Shopping)
 	- [Shopping, purchase, total, items](src/modules/05_Monads/5_7_WriterMonad/ShoppingExt)
+8. [Монада State](src/modules/05_Monads/5_8_StateMonad)
+    - [readerToState](src/modules/05_Monads/5_8_StateMonad/readerToState)

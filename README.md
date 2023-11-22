@@ -129,3 +129,4 @@
 	- [Remove files by query](src/modules/05_Monads/5_5_IO_Monad/removeByQuery)
 6. [Монада Reader](src/modules/05_Monads/5_6_ReaderMonad)
     - [local'](src/modules/05_Monads/5_6_ReaderMonad/local')
+	- [usersWithBadPasswords](src/modules/05_Monads/5_6_ReaderMonad/usersWithBadPasswords)
